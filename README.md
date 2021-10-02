@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/49764231/135702237-4625c8b0-8435-434a-bf32-2d7b89927c84.png" alt="Github" width="200"/>
 
-## [EDWIN BUSTILLOS](https://github.com/anuraghazra/github-readme-stats)
+## [EDWIN BUSTILLOS](https://github.com/edwinbustillos)
 
 ---
 
